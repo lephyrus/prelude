@@ -26,3 +26,10 @@ network-security.data
 prelude-cheatsheet.el
 prelude-cheatsheet.aux
 prelude-cheatsheet.log
+
+.cache
+amx-items
+forge-database.sqlite
+ido.last
+/server
+/transient
